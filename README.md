@@ -10,3 +10,4 @@ Mail: ingar@labelcraft.net
 
 Ingar added this as a test
 
+Now this document is more or less finished
