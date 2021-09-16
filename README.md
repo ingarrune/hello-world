@@ -7,3 +7,6 @@ from a Teams meeting.
 Moss, September 16, 2021
 Ingar Rune Steinsland
 Mail: ingar@labelcraft.net
+
+Ingar added this as a test
+
